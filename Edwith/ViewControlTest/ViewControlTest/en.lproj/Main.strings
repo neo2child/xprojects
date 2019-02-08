@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "POP"; ObjectID = "H9b-hL-88v"; */
+"H9b-hL-88v.normalTitle" = "POP";
+
+/* Class = "UIButton"; normalTitle = "Dismiss Modal"; ObjectID = "XFO-SD-fbL"; */
+"XFO-SD-fbL.normalTitle" = "Dismiss Modal";
+
+/* Class = "UIButton"; normalTitle = "Present Modal"; ObjectID = "kxN-C6-Nzl"; */
+"kxN-C6-Nzl.normalTitle" = "Present Modal";
+
+/* Class = "UIButton"; normalTitle = "PUSH"; ObjectID = "ntW-Xj-xFy"; */
+"ntW-Xj-xFy.normalTitle" = "PUSH";
